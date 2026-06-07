@@ -1,0 +1,19 @@
+Data Scientist Intern
+
+Responsibilities:
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Build machine learning models
+- Statistical analysis
+- Data visualization
+
+Requirements:
+- Python
+- SQL
+- Pandas
+- NumPy
+- Scikit-learn
+- Statistics
+- Machine Learning
+- Tableau or Power BI
+- Git

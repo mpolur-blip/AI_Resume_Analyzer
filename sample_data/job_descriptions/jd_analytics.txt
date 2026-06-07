@@ -1,0 +1,15 @@
+Analytics Intern
+
+Responsibilities:
+- Analyze data
+- Build dashboards
+- Generate insights
+
+Requirements:
+- SQL
+- Power BI
+- Tableau
+- Python
+- Statistics
+- Communication
+- Data Visualization

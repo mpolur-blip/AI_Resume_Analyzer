@@ -1,0 +1,14 @@
+Python Developer Intern
+
+Responsibilities:
+- Develop backend services
+- Build APIs
+- Maintain code quality
+
+Requirements:
+- Python
+- SQL
+- Git
+- REST APIs
+- Problem Solving
+- OOP

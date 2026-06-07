@@ -1,0 +1,17 @@
+AI Engineer Intern
+
+Responsibilities:
+- Build AI solutions
+- Train and fine-tune models
+- Experiment with LLMs
+- Evaluate model performance
+
+Requirements:
+- Python
+- Machine Learning
+- Deep Learning
+- TensorFlow
+- PyTorch
+- NLP
+- Transformers
+- Git

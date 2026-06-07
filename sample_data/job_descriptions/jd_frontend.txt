@@ -1,0 +1,14 @@
+Frontend Developer Intern
+
+Responsibilities:
+- Build web interfaces
+- Improve user experience
+- Develop responsive applications
+
+Requirements:
+- HTML
+- CSS
+- JavaScript
+- React
+- Git
+- Communication

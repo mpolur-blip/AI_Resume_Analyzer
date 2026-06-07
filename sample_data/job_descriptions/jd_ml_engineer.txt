@@ -1,0 +1,19 @@
+Machine Learning Engineer Intern
+
+Responsibilities:
+- Train ML models
+- Feature engineering
+- Model evaluation
+- Deep learning experiments
+- Deploy ML solutions
+
+Requirements:
+- Python
+- TensorFlow
+- PyTorch
+- Machine Learning
+- Deep Learning
+- NumPy
+- Pandas
+- Git
+- SQL

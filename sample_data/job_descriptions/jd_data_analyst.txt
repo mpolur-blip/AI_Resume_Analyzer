@@ -1,0 +1,17 @@
+Data Analyst Intern
+
+Responsibilities:
+- Analyze datasets
+- Build dashboards
+- Generate business insights
+- Create reports
+
+Requirements:
+- SQL
+- Excel
+- Power BI
+- Tableau
+- Python
+- Data Visualization
+- Statistics
+- Communication

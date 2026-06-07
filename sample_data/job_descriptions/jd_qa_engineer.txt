@@ -1,0 +1,15 @@
+QA Engineer Intern
+
+Responsibilities:
+- Test applications
+- Execute test cases
+- Report bugs
+- Ensure software quality
+
+Requirements:
+- Software Testing
+- Test Cases
+- Bug Tracking
+- Communication
+- Problem Solving
+- Attention to Detail

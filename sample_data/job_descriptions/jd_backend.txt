@@ -1,0 +1,14 @@
+Backend Developer Intern
+
+Responsibilities:
+- Develop APIs
+- Manage databases
+- Build scalable services
+
+Requirements:
+- Python
+- SQL
+- REST APIs
+- Git
+- Docker
+- Backend Development
