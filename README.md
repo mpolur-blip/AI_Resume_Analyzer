@@ -173,6 +173,20 @@ The Power BI dashboard is available in:
 ```text
 dashboard/AI_Resume_Analyzer_Dashboard.pbix
 ```
+## Screenshots
+
+### Streamlit Resume Analyzer
+
+![Streamlit App](screenshots/streamlit_app.png)
+
+### Power BI Dashboard - Overview
+
+![Dashboard Overview](screenshots/dashboard_overview.png)
+
+### Power BI Dashboard - Resume Performance
+
+![Dashboard Resume Performance](screenshots/dashboard_resume_performance.png)
+
 
 ### Batch Analysis Output
 
