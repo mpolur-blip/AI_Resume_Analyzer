@@ -195,13 +195,13 @@ python src/batch_analyzer.py
 * TF-IDF does not fully understand semantic meaning.
 * Skill detection depends on the predefined skill dictionary.
 * The ATS score is a simplified approximation and not an actual company ATS system.
-* The app currently analyzes one resume and one job description at a time.
+* The Streamlit app currently analyzes one resume and one job description at a time, while batch comparison is handled through a separate script.
 
 ## Future Improvements
 
 * Add semantic similarity using sentence embeddings
 * Add batch resume-job comparison
-* Build a Power BI dashboard using exported CSV data
+* Add dashboard screenshots to README
 * Add downloadable PDF analysis reports
 * Add more advanced resume tailoring suggestions
 * Add support for DOCX resumes
