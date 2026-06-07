@@ -131,6 +131,63 @@ Example test cases:
 * Data Science resume + Data Science JD → higher match score
 * QA resume + Data Science JD → lower match score
 * Backend resume + AI Engineer JD → moderate or low match score depending on overlapping skills
+## Power BI Dashboard
+
+This project also includes a Power BI dashboard that visualizes resume-job matching results across multiple sample resumes and job descriptions.
+
+The dashboard was created using batch comparison data generated from:
+
+```bash
+python src/batch_analyzer.py
+```
+
+The batch analyzer compares all sample resumes against all sample job descriptions and produces 100 resume-job comparisons.
+
+### Dashboard Pages
+
+#### 1. Overview
+
+The Overview page includes:
+
+* Total resume-job comparisons
+* Average ATS score
+* Best ATS score
+* Average skill match
+* Resume filter
+* Job description filter
+* Resume vs Job Match Matrix
+
+#### 2. Resume Performance
+
+The Resume Performance page includes:
+
+* Average ATS score by resume
+* Average ATS score by job description
+* Average missing skills by job description
+* Keyword match vs skill match scatter plot
+
+### Dashboard File
+
+The Power BI dashboard is available in:
+
+```text
+dashboard/AI_Resume_Analyzer_Dashboard.pbix
+```
+
+### Batch Analysis Output
+
+The dashboard uses generated CSV data from:
+
+```text
+results/batch_resume_jd_scores.csv
+```
+
+Since the `results/` folder is ignored in GitHub, users can regenerate the CSV by running:
+
+```bash
+python src/batch_analyzer.py
+```
+
 
 ## Current Limitations
 
